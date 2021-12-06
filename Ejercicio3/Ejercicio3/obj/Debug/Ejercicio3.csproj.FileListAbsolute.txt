@@ -1,0 +1,12 @@
+c:\users\efrain\documents\visual studio 2013\INF-324\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+c:\users\efrain\documents\visual studio 2013\INF-324\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+c:\users\efrain\documents\visual studio 2013\INF-324\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+c:\users\efrain\documents\visual studio 2013\INF-324\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csprojResolveAssemblyReference.cache
+c:\users\efrain\documents\visual studio 2013\INF-324\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.Ejercicio3.exe.config
+c:\users\efrain\documents\visual studio 2013\INF-324\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Form1.resources
+c:\users\efrain\documents\visual studio 2013\INF-324\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+c:\users\efrain\documents\visual studio 2013\INF-324\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.Cache
+c:\users\efrain\documents\visual studio 2013\INF-324\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+c:\users\efrain\documents\visual studio 2013\INF-324\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
+c:\users\efrain\documents\visual studio 2013\INF-324\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Examen.resources
+c:\users\efrain\documents\visual studio 2013\INF-324\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Datos.resources
